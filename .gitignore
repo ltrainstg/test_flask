@@ -1,0 +1,9 @@
+# Virtual Environment
+/venv
+
+# Flask
+instance/* ## Data
+!instance/.gitignore
+.webassests-cache
+*.py[cod]
+__pycache__/
